@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nikos Grigorioy</h1>
-<h3 align="center">I am a trying to be a Full Stack Web Developer!</h3>
+<h3 align="center">Looking for new problems to solve!</h3>
+<img alt="My_GitHub_Profile" src="">
 
 - 🌱 I’m currently learning **BootStrap v.5 and ReactJs**
 
 - 📫 How to reach me **grigonickos@gmail.com**
 
+- ⚡ Fun fact **I'm an enthusiast for code, technology and coffee!.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/_grigorioy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_grigorioy_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
