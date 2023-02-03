@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikos Grigorioy</h1>
 <h3 align="center">Looking for new problems to solve!</h3>
-<img alt="My_GitHub_Profile" src="https://github.com/nikosgrigo/nikosgrigo/blob/main/Image_for_GitHub_Profile.png" width=400px>
+<p align="center">
+  <img alt="My_GitHub_Profile" src="https://github.com/nikosgrigo/nikosgrigo/blob/main/Image_for_GitHub_Profile.png" width="400">
+</p>
 
 - 🌱 I’m currently learning **BootStrap v.5 and ReactJs**
 
