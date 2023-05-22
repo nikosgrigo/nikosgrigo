@@ -4,7 +4,7 @@
   <img alt="My_GitHub_Profile" src="https://github.com/nikosgrigo/nikosgrigo/blob/main/GitHub_README_img.png" widht="700">
 </p>
 
-- 🌱 I’m currently learning **BootStrap v.5 and ReactJs**
+- 🌱 I’m currently learning **jQuery**
 
 - 📫 How to reach me **grigonickos@gmail.com**
 
