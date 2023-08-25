@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikos Grigorioy</h1>
 <h3 align="center">Looking for new problems to solve!</h3>
 <p align="center">
-  <img alt="My_GitHub_Profile" src="https://github.com/nikosgrigo/nikosgrigo/blob/main/GitHub_README_img.png" widht="700">
+  <img alt="My_GitHub_Profile" src="https://github.com/nikosgrigo/nikosgrigo/blob/main/ifyoulikemywork.png" widht="700">
 </p>
 
 - 🌱 I’m currently learning **jQuery**
