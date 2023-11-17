@@ -4,7 +4,7 @@
   <img alt="My_GitHub_Profile" src="https://github.com/nikosgrigo/nikosgrigo/blob/main/ifyoulikemywork.png" widht="700">
 </p>
 
-- 🌱 I’m currently learning **Seleninum & Cucumber**
+- 🌱 I’m currently learning **Selenium & Cucumber**
 
 - 📫 How to reach me **grigonickos@gmail.com**
 
